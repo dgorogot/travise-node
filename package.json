@@ -1,0 +1,12 @@
+{
+	"name": "hello node",
+	"description": "A demo tavise",
+	"author": "d",
+	"version": "0.0.1",
+	"devDependencies": {
+		"grunt": "~0.3.17"
+	},
+	"scripts": {
+		"test": "grunt travice --verbose"
+	}
+}
