@@ -18,5 +18,22 @@
   "bugs": {
     "url": "https://github.com/dgorogot/travise-node/issues"
   },
-  "homepage": "https://github.com/dgorogot/travise-node"
+  "homepage": "https://github.com/dgorogot/travise-node",
+  "dependencies": {
+    "grunt": "~0.4.0",
+        "matchdep": "*"
+  },
+  "devDependencies": {
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-sync": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-csslint": "*",
+    "eslint-grunt": "*",
+    "grunt-prompt": "~0.1.1",
+    "grunt-plato": "~0.2.1",
+        "grunt-nodemon": "~0.1.0",
+        "forever-monitor": "*"
+  }
 }
+
