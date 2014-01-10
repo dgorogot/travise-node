@@ -1,12 +1,22 @@
 {
-	"name": "hello node",
-	"description": "A demo tavise",
-	"author": "d",
-	"version": "0.0.1",
-	"devDependencies": {
-		"grunt": "~0.3.17"
-	},
-	"scripts": {
-		"test": "grunt travice --verbose"
-	}
+  "name": "hello-world-travice",
+  "version": "0.0.0",
+  "description": "test proj",
+  "main": "grunt.js",
+  "scripts": {
+    "test": "grunt travise --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dgorogot/travise-node.git"
+  },
+  "keywords": [
+    "travice"
+  ],
+  "author": "dima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgorogot/travise-node/issues"
+  },
+  "homepage": "https://github.com/dgorogot/travise-node"
 }
